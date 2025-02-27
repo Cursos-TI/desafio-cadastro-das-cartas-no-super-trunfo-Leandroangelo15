@@ -6,7 +6,7 @@
 
     char estado1 [50], codigocarta1 [50], nomedacidade1 [50];
 
-    int populacao1 , numeropontosturistico1;
+    int populacao01 , numeropontosturistico1;
 
     float areaemkm1, pib1;
 
@@ -18,8 +18,8 @@
     printf("Digite nome da Cidade: \n");
     scanf(" %s", nomedacidade1);
 
-    printf("Digite numero da populacao1: \n");
-    scanf(" %d," populacao1);
+    printf("Digite numero da populacao01: \n");
+    scanf ("%d", populacao01);
 
     printf("Digite o nome do codigo1: \n");
     scanf(" %s", codigocarta1);
